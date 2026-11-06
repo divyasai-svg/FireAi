@@ -1,0 +1,5002 @@
+[
+  {
+    "case_id": 1,
+    "gross_salary": 300000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "250000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 2,
+    "gross_salary": 300000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "200000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 3,
+    "gross_salary": 300000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "0",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 4,
+    "gross_salary": 300000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "0",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 5,
+    "gross_salary": 300000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "250000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 6,
+    "gross_salary": 300000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "225000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 7,
+    "gross_salary": 300000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "225000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 8,
+    "gross_salary": 300000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "225000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 9,
+    "gross_salary": 300000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "225000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 10,
+    "gross_salary": 300000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "300000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "225000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 11,
+    "gross_salary": 400000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "350000",
+      "tax_before_rebate": "5000",
+      "rebate": "5000",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 12,
+    "gross_salary": 400000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "300000",
+      "tax_before_rebate": "2500",
+      "rebate": "2500",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 13,
+    "gross_salary": 400000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "90000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 14,
+    "gross_salary": 400000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "0",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 15,
+    "gross_salary": 400000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "350000",
+      "tax_before_rebate": "5000",
+      "rebate": "0",
+      "tax_after_rebate": "5000",
+      "surcharge": "0",
+      "cess": "200.00",
+      "total_tax": "5200.00"
+    }
+  },
+  {
+    "case_id": 16,
+    "gross_salary": 400000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "325000",
+      "tax_before_rebate": "1250",
+      "rebate": "1250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 17,
+    "gross_salary": 400000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "325000",
+      "tax_before_rebate": "1250",
+      "rebate": "1250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 18,
+    "gross_salary": 400000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "325000",
+      "tax_before_rebate": "1250",
+      "rebate": "1250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 19,
+    "gross_salary": 400000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "325000",
+      "tax_before_rebate": "1250",
+      "rebate": "1250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 20,
+    "gross_salary": 400000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "400000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "325000",
+      "tax_before_rebate": "1250",
+      "rebate": "0",
+      "tax_after_rebate": "1250",
+      "surcharge": "0",
+      "cess": "50.00",
+      "total_tax": "1300.00"
+    }
+  },
+  {
+    "case_id": 21,
+    "gross_salary": 500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "450000",
+      "tax_before_rebate": "10000",
+      "rebate": "10000",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 22,
+    "gross_salary": 500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "400000",
+      "tax_before_rebate": "7500",
+      "rebate": "7500",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 23,
+    "gross_salary": 500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "190000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 24,
+    "gross_salary": 500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "0",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 25,
+    "gross_salary": 500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "450000",
+      "tax_before_rebate": "10000",
+      "rebate": "0",
+      "tax_after_rebate": "10000",
+      "surcharge": "0",
+      "cess": "400.00",
+      "total_tax": "10400.00"
+    }
+  },
+  {
+    "case_id": 26,
+    "gross_salary": 500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "425000",
+      "tax_before_rebate": "6250",
+      "rebate": "6250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 27,
+    "gross_salary": 500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "425000",
+      "tax_before_rebate": "6250",
+      "rebate": "6250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 28,
+    "gross_salary": 500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "425000",
+      "tax_before_rebate": "6250",
+      "rebate": "6250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 29,
+    "gross_salary": 500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "425000",
+      "tax_before_rebate": "6250",
+      "rebate": "6250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 30,
+    "gross_salary": 500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "425000",
+      "tax_before_rebate": "6250",
+      "rebate": "0",
+      "tax_after_rebate": "6250",
+      "surcharge": "0",
+      "cess": "250.00",
+      "total_tax": "6500.00"
+    }
+  },
+  {
+    "case_id": 31,
+    "gross_salary": 600000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "550000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 32,
+    "gross_salary": 600000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "500000",
+      "tax_before_rebate": "12500",
+      "rebate": "12500",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 33,
+    "gross_salary": 600000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "290000",
+      "tax_before_rebate": "2000",
+      "rebate": "2000",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 34,
+    "gross_salary": 600000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "100000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 35,
+    "gross_salary": 600000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "550000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 36,
+    "gross_salary": 600000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "525000",
+      "tax_before_rebate": "11250",
+      "rebate": "11250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 37,
+    "gross_salary": 600000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "525000",
+      "tax_before_rebate": "11250",
+      "rebate": "11250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 38,
+    "gross_salary": 600000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "525000",
+      "tax_before_rebate": "11250",
+      "rebate": "11250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 39,
+    "gross_salary": 600000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "525000",
+      "tax_before_rebate": "11250",
+      "rebate": "11250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 40,
+    "gross_salary": 600000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "600000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "525000",
+      "tax_before_rebate": "11250",
+      "rebate": "0",
+      "tax_after_rebate": "11250",
+      "surcharge": "0",
+      "cess": "450.00",
+      "total_tax": "11700.00"
+    }
+  },
+  {
+    "case_id": 41,
+    "gross_salary": 700000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "650000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 42,
+    "gross_salary": 700000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "600000",
+      "tax_before_rebate": "32500",
+      "rebate": "0",
+      "tax_after_rebate": "32500",
+      "surcharge": "0",
+      "cess": "1300.00",
+      "total_tax": "33800.00"
+    }
+  },
+  {
+    "case_id": 43,
+    "gross_salary": 700000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "390000",
+      "tax_before_rebate": "7000",
+      "rebate": "7000",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 44,
+    "gross_salary": 700000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "200000",
+      "tax_before_rebate": "0",
+      "rebate": "0",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 45,
+    "gross_salary": 700000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "650000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 46,
+    "gross_salary": 700000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "625000",
+      "tax_before_rebate": "16250",
+      "rebate": "16250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 47,
+    "gross_salary": 700000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "625000",
+      "tax_before_rebate": "16250",
+      "rebate": "16250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 48,
+    "gross_salary": 700000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "625000",
+      "tax_before_rebate": "16250",
+      "rebate": "16250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 49,
+    "gross_salary": 700000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "625000",
+      "tax_before_rebate": "16250",
+      "rebate": "16250",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 50,
+    "gross_salary": 700000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "700000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "625000",
+      "tax_before_rebate": "16250",
+      "rebate": "0",
+      "tax_after_rebate": "16250",
+      "surcharge": "0",
+      "cess": "650.00",
+      "total_tax": "16900.00"
+    }
+  },
+  {
+    "case_id": 51,
+    "gross_salary": 800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "750000",
+      "tax_before_rebate": "62500",
+      "rebate": "0",
+      "tax_after_rebate": "62500",
+      "surcharge": "0",
+      "cess": "2500.00",
+      "total_tax": "65000.00"
+    }
+  },
+  {
+    "case_id": 52,
+    "gross_salary": 800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "700000",
+      "tax_before_rebate": "52500",
+      "rebate": "0",
+      "tax_after_rebate": "52500",
+      "surcharge": "0",
+      "cess": "2100.00",
+      "total_tax": "54600.00"
+    }
+  },
+  {
+    "case_id": 53,
+    "gross_salary": 800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "490000",
+      "tax_before_rebate": "12000",
+      "rebate": "12000",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 54,
+    "gross_salary": 800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "300000",
+      "tax_before_rebate": "2500",
+      "rebate": "2500",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 55,
+    "gross_salary": 800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "750000",
+      "tax_before_rebate": "62500",
+      "rebate": "0",
+      "tax_after_rebate": "62500",
+      "surcharge": "0",
+      "cess": "2500.00",
+      "total_tax": "65000.00"
+    }
+  },
+  {
+    "case_id": 56,
+    "gross_salary": 800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "725000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 57,
+    "gross_salary": 800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "725000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 58,
+    "gross_salary": 800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "725000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 59,
+    "gross_salary": 800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "725000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 60,
+    "gross_salary": 800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "725000",
+      "tax_before_rebate": "22500",
+      "rebate": "0",
+      "tax_after_rebate": "22500",
+      "surcharge": "0",
+      "cess": "900.00",
+      "total_tax": "23400.00"
+    }
+  },
+  {
+    "case_id": 61,
+    "gross_salary": 900000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "850000",
+      "tax_before_rebate": "82500",
+      "rebate": "0",
+      "tax_after_rebate": "82500",
+      "surcharge": "0",
+      "cess": "3300.00",
+      "total_tax": "85800.00"
+    }
+  },
+  {
+    "case_id": 62,
+    "gross_salary": 900000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "800000",
+      "tax_before_rebate": "72500",
+      "rebate": "0",
+      "tax_after_rebate": "72500",
+      "surcharge": "0",
+      "cess": "2900.00",
+      "total_tax": "75400.00"
+    }
+  },
+  {
+    "case_id": 63,
+    "gross_salary": 900000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "590000",
+      "tax_before_rebate": "30500",
+      "rebate": "0",
+      "tax_after_rebate": "30500",
+      "surcharge": "0",
+      "cess": "1220.00",
+      "total_tax": "31720.00"
+    }
+  },
+  {
+    "case_id": 64,
+    "gross_salary": 900000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "400000",
+      "tax_before_rebate": "7500",
+      "rebate": "7500",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 65,
+    "gross_salary": 900000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "850000",
+      "tax_before_rebate": "82500",
+      "rebate": "0",
+      "tax_after_rebate": "82500",
+      "surcharge": "0",
+      "cess": "3300.00",
+      "total_tax": "85800.00"
+    }
+  },
+  {
+    "case_id": 66,
+    "gross_salary": 900000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "825000",
+      "tax_before_rebate": "32500",
+      "rebate": "0",
+      "tax_after_rebate": "32500",
+      "surcharge": "0",
+      "cess": "1300.00",
+      "total_tax": "33800.00"
+    }
+  },
+  {
+    "case_id": 67,
+    "gross_salary": 900000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "825000",
+      "tax_before_rebate": "32500",
+      "rebate": "0",
+      "tax_after_rebate": "32500",
+      "surcharge": "0",
+      "cess": "1300.00",
+      "total_tax": "33800.00"
+    }
+  },
+  {
+    "case_id": 68,
+    "gross_salary": 900000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "825000",
+      "tax_before_rebate": "32500",
+      "rebate": "0",
+      "tax_after_rebate": "32500",
+      "surcharge": "0",
+      "cess": "1300.00",
+      "total_tax": "33800.00"
+    }
+  },
+  {
+    "case_id": 69,
+    "gross_salary": 900000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "825000",
+      "tax_before_rebate": "32500",
+      "rebate": "0",
+      "tax_after_rebate": "32500",
+      "surcharge": "0",
+      "cess": "1300.00",
+      "total_tax": "33800.00"
+    }
+  },
+  {
+    "case_id": 70,
+    "gross_salary": 900000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "900000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "825000",
+      "tax_before_rebate": "32500",
+      "rebate": "0",
+      "tax_after_rebate": "32500",
+      "surcharge": "0",
+      "cess": "1300.00",
+      "total_tax": "33800.00"
+    }
+  },
+  {
+    "case_id": 71,
+    "gross_salary": 1000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "950000",
+      "tax_before_rebate": "102500",
+      "rebate": "0",
+      "tax_after_rebate": "102500",
+      "surcharge": "0",
+      "cess": "4100.00",
+      "total_tax": "106600.00"
+    }
+  },
+  {
+    "case_id": 72,
+    "gross_salary": 1000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "900000",
+      "tax_before_rebate": "92500",
+      "rebate": "0",
+      "tax_after_rebate": "92500",
+      "surcharge": "0",
+      "cess": "3700.00",
+      "total_tax": "96200.00"
+    }
+  },
+  {
+    "case_id": 73,
+    "gross_salary": 1000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "690000",
+      "tax_before_rebate": "50500",
+      "rebate": "0",
+      "tax_after_rebate": "50500",
+      "surcharge": "0",
+      "cess": "2020.00",
+      "total_tax": "52520.00"
+    }
+  },
+  {
+    "case_id": 74,
+    "gross_salary": 1000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "500000",
+      "tax_before_rebate": "12500",
+      "rebate": "12500",
+      "tax_after_rebate": "0",
+      "surcharge": "0",
+      "cess": "0.00",
+      "total_tax": "0.00"
+    }
+  },
+  {
+    "case_id": 75,
+    "gross_salary": 1000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "950000",
+      "tax_before_rebate": "102500",
+      "rebate": "0",
+      "tax_after_rebate": "102500",
+      "surcharge": "0",
+      "cess": "4100.00",
+      "total_tax": "106600.00"
+    }
+  },
+  {
+    "case_id": 76,
+    "gross_salary": 1000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "925000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 77,
+    "gross_salary": 1000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "925000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 78,
+    "gross_salary": 1000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "925000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 79,
+    "gross_salary": 1000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "925000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 80,
+    "gross_salary": 1000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "925000",
+      "tax_before_rebate": "42500",
+      "rebate": "0",
+      "tax_after_rebate": "42500",
+      "surcharge": "0",
+      "cess": "1700.00",
+      "total_tax": "44200.00"
+    }
+  },
+  {
+    "case_id": 81,
+    "gross_salary": 1200000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1150000",
+      "tax_before_rebate": "157500",
+      "rebate": "0",
+      "tax_after_rebate": "157500",
+      "surcharge": "0",
+      "cess": "6300.00",
+      "total_tax": "163800.00"
+    }
+  },
+  {
+    "case_id": 82,
+    "gross_salary": 1200000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "1100000",
+      "tax_before_rebate": "142500",
+      "rebate": "0",
+      "tax_after_rebate": "142500",
+      "surcharge": "0",
+      "cess": "5700.00",
+      "total_tax": "148200.00"
+    }
+  },
+  {
+    "case_id": 83,
+    "gross_salary": 1200000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "890000",
+      "tax_before_rebate": "90500",
+      "rebate": "0",
+      "tax_after_rebate": "90500",
+      "surcharge": "0",
+      "cess": "3620.00",
+      "total_tax": "94120.00"
+    }
+  },
+  {
+    "case_id": 84,
+    "gross_salary": 1200000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "700000",
+      "tax_before_rebate": "52500",
+      "rebate": "0",
+      "tax_after_rebate": "52500",
+      "surcharge": "0",
+      "cess": "2100.00",
+      "total_tax": "54600.00"
+    }
+  },
+  {
+    "case_id": 85,
+    "gross_salary": 1200000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1150000",
+      "tax_before_rebate": "157500",
+      "rebate": "0",
+      "tax_after_rebate": "157500",
+      "surcharge": "0",
+      "cess": "6300.00",
+      "total_tax": "163800.00"
+    }
+  },
+  {
+    "case_id": 86,
+    "gross_salary": 1200000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1125000",
+      "tax_before_rebate": "68750",
+      "rebate": "0",
+      "tax_after_rebate": "68750",
+      "surcharge": "0",
+      "cess": "2750.00",
+      "total_tax": "71500.00"
+    }
+  },
+  {
+    "case_id": 87,
+    "gross_salary": 1200000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1125000",
+      "tax_before_rebate": "68750",
+      "rebate": "0",
+      "tax_after_rebate": "68750",
+      "surcharge": "0",
+      "cess": "2750.00",
+      "total_tax": "71500.00"
+    }
+  },
+  {
+    "case_id": 88,
+    "gross_salary": 1200000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1125000",
+      "tax_before_rebate": "68750",
+      "rebate": "0",
+      "tax_after_rebate": "68750",
+      "surcharge": "0",
+      "cess": "2750.00",
+      "total_tax": "71500.00"
+    }
+  },
+  {
+    "case_id": 89,
+    "gross_salary": 1200000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1125000",
+      "tax_before_rebate": "68750",
+      "rebate": "0",
+      "tax_after_rebate": "68750",
+      "surcharge": "0",
+      "cess": "2750.00",
+      "total_tax": "71500.00"
+    }
+  },
+  {
+    "case_id": 90,
+    "gross_salary": 1200000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1200000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1125000",
+      "tax_before_rebate": "68750",
+      "rebate": "0",
+      "tax_after_rebate": "68750",
+      "surcharge": "0",
+      "cess": "2750.00",
+      "total_tax": "71500.00"
+    }
+  },
+  {
+    "case_id": 91,
+    "gross_salary": 1500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1450000",
+      "tax_before_rebate": "247500",
+      "rebate": "0",
+      "tax_after_rebate": "247500",
+      "surcharge": "0",
+      "cess": "9900.00",
+      "total_tax": "257400.00"
+    }
+  },
+  {
+    "case_id": 92,
+    "gross_salary": 1500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "1400000",
+      "tax_before_rebate": "232500",
+      "rebate": "0",
+      "tax_after_rebate": "232500",
+      "surcharge": "0",
+      "cess": "9300.00",
+      "total_tax": "241800.00"
+    }
+  },
+  {
+    "case_id": 93,
+    "gross_salary": 1500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "1190000",
+      "tax_before_rebate": "169500",
+      "rebate": "0",
+      "tax_after_rebate": "169500",
+      "surcharge": "0",
+      "cess": "6780.00",
+      "total_tax": "176280.00"
+    }
+  },
+  {
+    "case_id": 94,
+    "gross_salary": 1500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "1000000",
+      "tax_before_rebate": "112500",
+      "rebate": "0",
+      "tax_after_rebate": "112500",
+      "surcharge": "0",
+      "cess": "4500.00",
+      "total_tax": "117000.00"
+    }
+  },
+  {
+    "case_id": 95,
+    "gross_salary": 1500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1450000",
+      "tax_before_rebate": "247500",
+      "rebate": "0",
+      "tax_after_rebate": "247500",
+      "surcharge": "0",
+      "cess": "9900.00",
+      "total_tax": "257400.00"
+    }
+  },
+  {
+    "case_id": 96,
+    "gross_salary": 1500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1425000",
+      "tax_before_rebate": "125000",
+      "rebate": "0",
+      "tax_after_rebate": "125000",
+      "surcharge": "0",
+      "cess": "5000.00",
+      "total_tax": "130000.00"
+    }
+  },
+  {
+    "case_id": 97,
+    "gross_salary": 1500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1425000",
+      "tax_before_rebate": "125000",
+      "rebate": "0",
+      "tax_after_rebate": "125000",
+      "surcharge": "0",
+      "cess": "5000.00",
+      "total_tax": "130000.00"
+    }
+  },
+  {
+    "case_id": 98,
+    "gross_salary": 1500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1425000",
+      "tax_before_rebate": "125000",
+      "rebate": "0",
+      "tax_after_rebate": "125000",
+      "surcharge": "0",
+      "cess": "5000.00",
+      "total_tax": "130000.00"
+    }
+  },
+  {
+    "case_id": 99,
+    "gross_salary": 1500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1425000",
+      "tax_before_rebate": "125000",
+      "rebate": "0",
+      "tax_after_rebate": "125000",
+      "surcharge": "0",
+      "cess": "5000.00",
+      "total_tax": "130000.00"
+    }
+  },
+  {
+    "case_id": 100,
+    "gross_salary": 1500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1425000",
+      "tax_before_rebate": "125000",
+      "rebate": "0",
+      "tax_after_rebate": "125000",
+      "surcharge": "0",
+      "cess": "5000.00",
+      "total_tax": "130000.00"
+    }
+  },
+  {
+    "case_id": 101,
+    "gross_salary": 1800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1750000",
+      "tax_before_rebate": "337500",
+      "rebate": "0",
+      "tax_after_rebate": "337500",
+      "surcharge": "0",
+      "cess": "13500.00",
+      "total_tax": "351000.00"
+    }
+  },
+  {
+    "case_id": 102,
+    "gross_salary": 1800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "1700000",
+      "tax_before_rebate": "322500",
+      "rebate": "0",
+      "tax_after_rebate": "322500",
+      "surcharge": "0",
+      "cess": "12900.00",
+      "total_tax": "335400.00"
+    }
+  },
+  {
+    "case_id": 103,
+    "gross_salary": 1800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "1490000",
+      "tax_before_rebate": "259500",
+      "rebate": "0",
+      "tax_after_rebate": "259500",
+      "surcharge": "0",
+      "cess": "10380.00",
+      "total_tax": "269880.00"
+    }
+  },
+  {
+    "case_id": 104,
+    "gross_salary": 1800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "1300000",
+      "tax_before_rebate": "202500",
+      "rebate": "0",
+      "tax_after_rebate": "202500",
+      "surcharge": "0",
+      "cess": "8100.00",
+      "total_tax": "210600.00"
+    }
+  },
+  {
+    "case_id": 105,
+    "gross_salary": 1800000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1750000",
+      "tax_before_rebate": "337500",
+      "rebate": "0",
+      "tax_after_rebate": "337500",
+      "surcharge": "0",
+      "cess": "13500.00",
+      "total_tax": "351000.00"
+    }
+  },
+  {
+    "case_id": 106,
+    "gross_salary": 1800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1725000",
+      "tax_before_rebate": "207500",
+      "rebate": "0",
+      "tax_after_rebate": "207500",
+      "surcharge": "0",
+      "cess": "8300.00",
+      "total_tax": "215800.00"
+    }
+  },
+  {
+    "case_id": 107,
+    "gross_salary": 1800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1725000",
+      "tax_before_rebate": "207500",
+      "rebate": "0",
+      "tax_after_rebate": "207500",
+      "surcharge": "0",
+      "cess": "8300.00",
+      "total_tax": "215800.00"
+    }
+  },
+  {
+    "case_id": 108,
+    "gross_salary": 1800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1725000",
+      "tax_before_rebate": "207500",
+      "rebate": "0",
+      "tax_after_rebate": "207500",
+      "surcharge": "0",
+      "cess": "8300.00",
+      "total_tax": "215800.00"
+    }
+  },
+  {
+    "case_id": 109,
+    "gross_salary": 1800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1725000",
+      "tax_before_rebate": "207500",
+      "rebate": "0",
+      "tax_after_rebate": "207500",
+      "surcharge": "0",
+      "cess": "8300.00",
+      "total_tax": "215800.00"
+    }
+  },
+  {
+    "case_id": 110,
+    "gross_salary": 1800000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "1800000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1725000",
+      "tax_before_rebate": "207500",
+      "rebate": "0",
+      "tax_after_rebate": "207500",
+      "surcharge": "0",
+      "cess": "8300.00",
+      "total_tax": "215800.00"
+    }
+  },
+  {
+    "case_id": 111,
+    "gross_salary": 2000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1950000",
+      "tax_before_rebate": "397500",
+      "rebate": "0",
+      "tax_after_rebate": "397500",
+      "surcharge": "0",
+      "cess": "15900.00",
+      "total_tax": "413400.00"
+    }
+  },
+  {
+    "case_id": 112,
+    "gross_salary": 2000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "1900000",
+      "tax_before_rebate": "382500",
+      "rebate": "0",
+      "tax_after_rebate": "382500",
+      "surcharge": "0",
+      "cess": "15300.00",
+      "total_tax": "397800.00"
+    }
+  },
+  {
+    "case_id": 113,
+    "gross_salary": 2000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "1690000",
+      "tax_before_rebate": "319500",
+      "rebate": "0",
+      "tax_after_rebate": "319500",
+      "surcharge": "0",
+      "cess": "12780.00",
+      "total_tax": "332280.00"
+    }
+  },
+  {
+    "case_id": 114,
+    "gross_salary": 2000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "1500000",
+      "tax_before_rebate": "262500",
+      "rebate": "0",
+      "tax_after_rebate": "262500",
+      "surcharge": "0",
+      "cess": "10500.00",
+      "total_tax": "273000.00"
+    }
+  },
+  {
+    "case_id": 115,
+    "gross_salary": 2000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1950000",
+      "tax_before_rebate": "397500",
+      "rebate": "0",
+      "tax_after_rebate": "397500",
+      "surcharge": "0",
+      "cess": "15900.00",
+      "total_tax": "413400.00"
+    }
+  },
+  {
+    "case_id": 116,
+    "gross_salary": 2000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1925000",
+      "tax_before_rebate": "267500",
+      "rebate": "0",
+      "tax_after_rebate": "267500",
+      "surcharge": "0",
+      "cess": "10700.00",
+      "total_tax": "278200.00"
+    }
+  },
+  {
+    "case_id": 117,
+    "gross_salary": 2000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1925000",
+      "tax_before_rebate": "267500",
+      "rebate": "0",
+      "tax_after_rebate": "267500",
+      "surcharge": "0",
+      "cess": "10700.00",
+      "total_tax": "278200.00"
+    }
+  },
+  {
+    "case_id": 118,
+    "gross_salary": 2000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1925000",
+      "tax_before_rebate": "267500",
+      "rebate": "0",
+      "tax_after_rebate": "267500",
+      "surcharge": "0",
+      "cess": "10700.00",
+      "total_tax": "278200.00"
+    }
+  },
+  {
+    "case_id": 119,
+    "gross_salary": 2000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1925000",
+      "tax_before_rebate": "267500",
+      "rebate": "0",
+      "tax_after_rebate": "267500",
+      "surcharge": "0",
+      "cess": "10700.00",
+      "total_tax": "278200.00"
+    }
+  },
+  {
+    "case_id": 120,
+    "gross_salary": 2000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "1925000",
+      "tax_before_rebate": "267500",
+      "rebate": "0",
+      "tax_after_rebate": "267500",
+      "surcharge": "0",
+      "cess": "10700.00",
+      "total_tax": "278200.00"
+    }
+  },
+  {
+    "case_id": 121,
+    "gross_salary": 2500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2450000",
+      "tax_before_rebate": "547500",
+      "rebate": "0",
+      "tax_after_rebate": "547500",
+      "surcharge": "0",
+      "cess": "21900.00",
+      "total_tax": "569400.00"
+    }
+  },
+  {
+    "case_id": 122,
+    "gross_salary": 2500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "2400000",
+      "tax_before_rebate": "532500",
+      "rebate": "0",
+      "tax_after_rebate": "532500",
+      "surcharge": "0",
+      "cess": "21300.00",
+      "total_tax": "553800.00"
+    }
+  },
+  {
+    "case_id": 123,
+    "gross_salary": 2500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "2190000",
+      "tax_before_rebate": "469500",
+      "rebate": "0",
+      "tax_after_rebate": "469500",
+      "surcharge": "0",
+      "cess": "18780.00",
+      "total_tax": "488280.00"
+    }
+  },
+  {
+    "case_id": 124,
+    "gross_salary": 2500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "2000000",
+      "tax_before_rebate": "412500",
+      "rebate": "0",
+      "tax_after_rebate": "412500",
+      "surcharge": "0",
+      "cess": "16500.00",
+      "total_tax": "429000.00"
+    }
+  },
+  {
+    "case_id": 125,
+    "gross_salary": 2500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2450000",
+      "tax_before_rebate": "547500",
+      "rebate": "0",
+      "tax_after_rebate": "547500",
+      "surcharge": "0",
+      "cess": "21900.00",
+      "total_tax": "569400.00"
+    }
+  },
+  {
+    "case_id": 126,
+    "gross_salary": 2500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2425000",
+      "tax_before_rebate": "417500",
+      "rebate": "0",
+      "tax_after_rebate": "417500",
+      "surcharge": "0",
+      "cess": "16700.00",
+      "total_tax": "434200.00"
+    }
+  },
+  {
+    "case_id": 127,
+    "gross_salary": 2500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2425000",
+      "tax_before_rebate": "417500",
+      "rebate": "0",
+      "tax_after_rebate": "417500",
+      "surcharge": "0",
+      "cess": "16700.00",
+      "total_tax": "434200.00"
+    }
+  },
+  {
+    "case_id": 128,
+    "gross_salary": 2500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2425000",
+      "tax_before_rebate": "417500",
+      "rebate": "0",
+      "tax_after_rebate": "417500",
+      "surcharge": "0",
+      "cess": "16700.00",
+      "total_tax": "434200.00"
+    }
+  },
+  {
+    "case_id": 129,
+    "gross_salary": 2500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2425000",
+      "tax_before_rebate": "417500",
+      "rebate": "0",
+      "tax_after_rebate": "417500",
+      "surcharge": "0",
+      "cess": "16700.00",
+      "total_tax": "434200.00"
+    }
+  },
+  {
+    "case_id": 130,
+    "gross_salary": 2500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "2500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2425000",
+      "tax_before_rebate": "417500",
+      "rebate": "0",
+      "tax_after_rebate": "417500",
+      "surcharge": "0",
+      "cess": "16700.00",
+      "total_tax": "434200.00"
+    }
+  },
+  {
+    "case_id": 131,
+    "gross_salary": 3000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2950000",
+      "tax_before_rebate": "697500",
+      "rebate": "0",
+      "tax_after_rebate": "697500",
+      "surcharge": "0",
+      "cess": "27900.00",
+      "total_tax": "725400.00"
+    }
+  },
+  {
+    "case_id": 132,
+    "gross_salary": 3000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "2900000",
+      "tax_before_rebate": "682500",
+      "rebate": "0",
+      "tax_after_rebate": "682500",
+      "surcharge": "0",
+      "cess": "27300.00",
+      "total_tax": "709800.00"
+    }
+  },
+  {
+    "case_id": 133,
+    "gross_salary": 3000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "2690000",
+      "tax_before_rebate": "619500",
+      "rebate": "0",
+      "tax_after_rebate": "619500",
+      "surcharge": "0",
+      "cess": "24780.00",
+      "total_tax": "644280.00"
+    }
+  },
+  {
+    "case_id": 134,
+    "gross_salary": 3000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "2500000",
+      "tax_before_rebate": "562500",
+      "rebate": "0",
+      "tax_after_rebate": "562500",
+      "surcharge": "0",
+      "cess": "22500.00",
+      "total_tax": "585000.00"
+    }
+  },
+  {
+    "case_id": 135,
+    "gross_salary": 3000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2950000",
+      "tax_before_rebate": "697500",
+      "rebate": "0",
+      "tax_after_rebate": "697500",
+      "surcharge": "0",
+      "cess": "27900.00",
+      "total_tax": "725400.00"
+    }
+  },
+  {
+    "case_id": 136,
+    "gross_salary": 3000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2925000",
+      "tax_before_rebate": "567500",
+      "rebate": "0",
+      "tax_after_rebate": "567500",
+      "surcharge": "0",
+      "cess": "22700.00",
+      "total_tax": "590200.00"
+    }
+  },
+  {
+    "case_id": 137,
+    "gross_salary": 3000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2925000",
+      "tax_before_rebate": "567500",
+      "rebate": "0",
+      "tax_after_rebate": "567500",
+      "surcharge": "0",
+      "cess": "22700.00",
+      "total_tax": "590200.00"
+    }
+  },
+  {
+    "case_id": 138,
+    "gross_salary": 3000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2925000",
+      "tax_before_rebate": "567500",
+      "rebate": "0",
+      "tax_after_rebate": "567500",
+      "surcharge": "0",
+      "cess": "22700.00",
+      "total_tax": "590200.00"
+    }
+  },
+  {
+    "case_id": 139,
+    "gross_salary": 3000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2925000",
+      "tax_before_rebate": "567500",
+      "rebate": "0",
+      "tax_after_rebate": "567500",
+      "surcharge": "0",
+      "cess": "22700.00",
+      "total_tax": "590200.00"
+    }
+  },
+  {
+    "case_id": 140,
+    "gross_salary": 3000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "3000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "2925000",
+      "tax_before_rebate": "567500",
+      "rebate": "0",
+      "tax_after_rebate": "567500",
+      "surcharge": "0",
+      "cess": "22700.00",
+      "total_tax": "590200.00"
+    }
+  },
+  {
+    "case_id": 141,
+    "gross_salary": 4000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3950000",
+      "tax_before_rebate": "997500",
+      "rebate": "0",
+      "tax_after_rebate": "997500",
+      "surcharge": "0",
+      "cess": "39900.00",
+      "total_tax": "1037400.00"
+    }
+  },
+  {
+    "case_id": 142,
+    "gross_salary": 4000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "3900000",
+      "tax_before_rebate": "982500",
+      "rebate": "0",
+      "tax_after_rebate": "982500",
+      "surcharge": "0",
+      "cess": "39300.00",
+      "total_tax": "1021800.00"
+    }
+  },
+  {
+    "case_id": 143,
+    "gross_salary": 4000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "3690000",
+      "tax_before_rebate": "919500",
+      "rebate": "0",
+      "tax_after_rebate": "919500",
+      "surcharge": "0",
+      "cess": "36780.00",
+      "total_tax": "956280.00"
+    }
+  },
+  {
+    "case_id": 144,
+    "gross_salary": 4000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "3500000",
+      "tax_before_rebate": "862500",
+      "rebate": "0",
+      "tax_after_rebate": "862500",
+      "surcharge": "0",
+      "cess": "34500.00",
+      "total_tax": "897000.00"
+    }
+  },
+  {
+    "case_id": 145,
+    "gross_salary": 4000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3950000",
+      "tax_before_rebate": "997500",
+      "rebate": "0",
+      "tax_after_rebate": "997500",
+      "surcharge": "0",
+      "cess": "39900.00",
+      "total_tax": "1037400.00"
+    }
+  },
+  {
+    "case_id": 146,
+    "gross_salary": 4000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3925000",
+      "tax_before_rebate": "867500",
+      "rebate": "0",
+      "tax_after_rebate": "867500",
+      "surcharge": "0",
+      "cess": "34700.00",
+      "total_tax": "902200.00"
+    }
+  },
+  {
+    "case_id": 147,
+    "gross_salary": 4000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3925000",
+      "tax_before_rebate": "867500",
+      "rebate": "0",
+      "tax_after_rebate": "867500",
+      "surcharge": "0",
+      "cess": "34700.00",
+      "total_tax": "902200.00"
+    }
+  },
+  {
+    "case_id": 148,
+    "gross_salary": 4000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3925000",
+      "tax_before_rebate": "867500",
+      "rebate": "0",
+      "tax_after_rebate": "867500",
+      "surcharge": "0",
+      "cess": "34700.00",
+      "total_tax": "902200.00"
+    }
+  },
+  {
+    "case_id": 149,
+    "gross_salary": 4000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3925000",
+      "tax_before_rebate": "867500",
+      "rebate": "0",
+      "tax_after_rebate": "867500",
+      "surcharge": "0",
+      "cess": "34700.00",
+      "total_tax": "902200.00"
+    }
+  },
+  {
+    "case_id": 150,
+    "gross_salary": 4000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "4000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "3925000",
+      "tax_before_rebate": "867500",
+      "rebate": "0",
+      "tax_after_rebate": "867500",
+      "surcharge": "0",
+      "cess": "34700.00",
+      "total_tax": "902200.00"
+    }
+  },
+  {
+    "case_id": 151,
+    "gross_salary": 5000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4950000",
+      "tax_before_rebate": "1297500",
+      "rebate": "0",
+      "tax_after_rebate": "1297500",
+      "surcharge": "0",
+      "cess": "51900.00",
+      "total_tax": "1349400.00"
+    }
+  },
+  {
+    "case_id": 152,
+    "gross_salary": 5000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "4900000",
+      "tax_before_rebate": "1282500",
+      "rebate": "0",
+      "tax_after_rebate": "1282500",
+      "surcharge": "0",
+      "cess": "51300.00",
+      "total_tax": "1333800.00"
+    }
+  },
+  {
+    "case_id": 153,
+    "gross_salary": 5000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "4690000",
+      "tax_before_rebate": "1219500",
+      "rebate": "0",
+      "tax_after_rebate": "1219500",
+      "surcharge": "0",
+      "cess": "48780.00",
+      "total_tax": "1268280.00"
+    }
+  },
+  {
+    "case_id": 154,
+    "gross_salary": 5000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "4500000",
+      "tax_before_rebate": "1162500",
+      "rebate": "0",
+      "tax_after_rebate": "1162500",
+      "surcharge": "0",
+      "cess": "46500.00",
+      "total_tax": "1209000.00"
+    }
+  },
+  {
+    "case_id": 155,
+    "gross_salary": 5000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4950000",
+      "tax_before_rebate": "1297500",
+      "rebate": "0",
+      "tax_after_rebate": "1297500",
+      "surcharge": "0",
+      "cess": "51900.00",
+      "total_tax": "1349400.00"
+    }
+  },
+  {
+    "case_id": 156,
+    "gross_salary": 5000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4925000",
+      "tax_before_rebate": "1167500",
+      "rebate": "0",
+      "tax_after_rebate": "1167500",
+      "surcharge": "0",
+      "cess": "46700.00",
+      "total_tax": "1214200.00"
+    }
+  },
+  {
+    "case_id": 157,
+    "gross_salary": 5000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4925000",
+      "tax_before_rebate": "1167500",
+      "rebate": "0",
+      "tax_after_rebate": "1167500",
+      "surcharge": "0",
+      "cess": "46700.00",
+      "total_tax": "1214200.00"
+    }
+  },
+  {
+    "case_id": 158,
+    "gross_salary": 5000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4925000",
+      "tax_before_rebate": "1167500",
+      "rebate": "0",
+      "tax_after_rebate": "1167500",
+      "surcharge": "0",
+      "cess": "46700.00",
+      "total_tax": "1214200.00"
+    }
+  },
+  {
+    "case_id": 159,
+    "gross_salary": 5000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4925000",
+      "tax_before_rebate": "1167500",
+      "rebate": "0",
+      "tax_after_rebate": "1167500",
+      "surcharge": "0",
+      "cess": "46700.00",
+      "total_tax": "1214200.00"
+    }
+  },
+  {
+    "case_id": 160,
+    "gross_salary": 5000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "5000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "4925000",
+      "tax_before_rebate": "1167500",
+      "rebate": "0",
+      "tax_after_rebate": "1167500",
+      "surcharge": "0",
+      "cess": "46700.00",
+      "total_tax": "1214200.00"
+    }
+  },
+  {
+    "case_id": 161,
+    "gross_salary": 6000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5950000",
+      "tax_before_rebate": "1597500",
+      "rebate": "0",
+      "tax_after_rebate": "1597500",
+      "surcharge": "159750.00",
+      "cess": "70290.0000",
+      "total_tax": "1827540.0000"
+    }
+  },
+  {
+    "case_id": 162,
+    "gross_salary": 6000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "5900000",
+      "tax_before_rebate": "1582500",
+      "rebate": "0",
+      "tax_after_rebate": "1582500",
+      "surcharge": "158250.00",
+      "cess": "69630.0000",
+      "total_tax": "1810380.0000"
+    }
+  },
+  {
+    "case_id": 163,
+    "gross_salary": 6000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "5690000",
+      "tax_before_rebate": "1519500",
+      "rebate": "0",
+      "tax_after_rebate": "1519500",
+      "surcharge": "151950.00",
+      "cess": "66858.0000",
+      "total_tax": "1738308.0000"
+    }
+  },
+  {
+    "case_id": 164,
+    "gross_salary": 6000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "5500000",
+      "tax_before_rebate": "1462500",
+      "rebate": "0",
+      "tax_after_rebate": "1462500",
+      "surcharge": "146250.00",
+      "cess": "64350.0000",
+      "total_tax": "1673100.0000"
+    }
+  },
+  {
+    "case_id": 165,
+    "gross_salary": 6000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5950000",
+      "tax_before_rebate": "1597500",
+      "rebate": "0",
+      "tax_after_rebate": "1597500",
+      "surcharge": "159750.00",
+      "cess": "70290.0000",
+      "total_tax": "1827540.0000"
+    }
+  },
+  {
+    "case_id": 166,
+    "gross_salary": 6000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5925000",
+      "tax_before_rebate": "1467500",
+      "rebate": "0",
+      "tax_after_rebate": "1467500",
+      "surcharge": "146750.00",
+      "cess": "64570.0000",
+      "total_tax": "1678820.0000"
+    }
+  },
+  {
+    "case_id": 167,
+    "gross_salary": 6000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5925000",
+      "tax_before_rebate": "1467500",
+      "rebate": "0",
+      "tax_after_rebate": "1467500",
+      "surcharge": "146750.00",
+      "cess": "64570.0000",
+      "total_tax": "1678820.0000"
+    }
+  },
+  {
+    "case_id": 168,
+    "gross_salary": 6000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5925000",
+      "tax_before_rebate": "1467500",
+      "rebate": "0",
+      "tax_after_rebate": "1467500",
+      "surcharge": "146750.00",
+      "cess": "64570.0000",
+      "total_tax": "1678820.0000"
+    }
+  },
+  {
+    "case_id": 169,
+    "gross_salary": 6000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5925000",
+      "tax_before_rebate": "1467500",
+      "rebate": "0",
+      "tax_after_rebate": "1467500",
+      "surcharge": "146750.00",
+      "cess": "64570.0000",
+      "total_tax": "1678820.0000"
+    }
+  },
+  {
+    "case_id": 170,
+    "gross_salary": 6000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "6000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "5925000",
+      "tax_before_rebate": "1467500",
+      "rebate": "0",
+      "tax_after_rebate": "1467500",
+      "surcharge": "146750.00",
+      "cess": "64570.0000",
+      "total_tax": "1678820.0000"
+    }
+  },
+  {
+    "case_id": 171,
+    "gross_salary": 7500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7450000",
+      "tax_before_rebate": "2047500",
+      "rebate": "0",
+      "tax_after_rebate": "2047500",
+      "surcharge": "204750.00",
+      "cess": "90090.0000",
+      "total_tax": "2342340.0000"
+    }
+  },
+  {
+    "case_id": 172,
+    "gross_salary": 7500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "7400000",
+      "tax_before_rebate": "2032500",
+      "rebate": "0",
+      "tax_after_rebate": "2032500",
+      "surcharge": "203250.00",
+      "cess": "89430.0000",
+      "total_tax": "2325180.0000"
+    }
+  },
+  {
+    "case_id": 173,
+    "gross_salary": 7500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "7190000",
+      "tax_before_rebate": "1969500",
+      "rebate": "0",
+      "tax_after_rebate": "1969500",
+      "surcharge": "196950.00",
+      "cess": "86658.0000",
+      "total_tax": "2253108.0000"
+    }
+  },
+  {
+    "case_id": 174,
+    "gross_salary": 7500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "7000000",
+      "tax_before_rebate": "1912500",
+      "rebate": "0",
+      "tax_after_rebate": "1912500",
+      "surcharge": "191250.00",
+      "cess": "84150.0000",
+      "total_tax": "2187900.0000"
+    }
+  },
+  {
+    "case_id": 175,
+    "gross_salary": 7500000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7450000",
+      "tax_before_rebate": "2047500",
+      "rebate": "0",
+      "tax_after_rebate": "2047500",
+      "surcharge": "204750.00",
+      "cess": "90090.0000",
+      "total_tax": "2342340.0000"
+    }
+  },
+  {
+    "case_id": 176,
+    "gross_salary": 7500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7425000",
+      "tax_before_rebate": "1917500",
+      "rebate": "0",
+      "tax_after_rebate": "1917500",
+      "surcharge": "191750.00",
+      "cess": "84370.0000",
+      "total_tax": "2193620.0000"
+    }
+  },
+  {
+    "case_id": 177,
+    "gross_salary": 7500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7425000",
+      "tax_before_rebate": "1917500",
+      "rebate": "0",
+      "tax_after_rebate": "1917500",
+      "surcharge": "191750.00",
+      "cess": "84370.0000",
+      "total_tax": "2193620.0000"
+    }
+  },
+  {
+    "case_id": 178,
+    "gross_salary": 7500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7425000",
+      "tax_before_rebate": "1917500",
+      "rebate": "0",
+      "tax_after_rebate": "1917500",
+      "surcharge": "191750.00",
+      "cess": "84370.0000",
+      "total_tax": "2193620.0000"
+    }
+  },
+  {
+    "case_id": 179,
+    "gross_salary": 7500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7425000",
+      "tax_before_rebate": "1917500",
+      "rebate": "0",
+      "tax_after_rebate": "1917500",
+      "surcharge": "191750.00",
+      "cess": "84370.0000",
+      "total_tax": "2193620.0000"
+    }
+  },
+  {
+    "case_id": 180,
+    "gross_salary": 7500000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "7500000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "7425000",
+      "tax_before_rebate": "1917500",
+      "rebate": "0",
+      "tax_after_rebate": "1917500",
+      "surcharge": "191750.00",
+      "cess": "84370.0000",
+      "total_tax": "2193620.0000"
+    }
+  },
+  {
+    "case_id": 181,
+    "gross_salary": 10000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9950000",
+      "tax_before_rebate": "2797500",
+      "rebate": "0",
+      "tax_after_rebate": "2797500",
+      "surcharge": "279750.00",
+      "cess": "123090.0000",
+      "total_tax": "3200340.0000"
+    }
+  },
+  {
+    "case_id": 182,
+    "gross_salary": 10000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "9900000",
+      "tax_before_rebate": "2782500",
+      "rebate": "0",
+      "tax_after_rebate": "2782500",
+      "surcharge": "278250.00",
+      "cess": "122430.0000",
+      "total_tax": "3183180.0000"
+    }
+  },
+  {
+    "case_id": 183,
+    "gross_salary": 10000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "9690000",
+      "tax_before_rebate": "2719500",
+      "rebate": "0",
+      "tax_after_rebate": "2719500",
+      "surcharge": "271950.00",
+      "cess": "119658.0000",
+      "total_tax": "3111108.0000"
+    }
+  },
+  {
+    "case_id": 184,
+    "gross_salary": 10000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "9500000",
+      "tax_before_rebate": "2662500",
+      "rebate": "0",
+      "tax_after_rebate": "2662500",
+      "surcharge": "266250.00",
+      "cess": "117150.0000",
+      "total_tax": "3045900.0000"
+    }
+  },
+  {
+    "case_id": 185,
+    "gross_salary": 10000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9950000",
+      "tax_before_rebate": "2797500",
+      "rebate": "0",
+      "tax_after_rebate": "2797500",
+      "surcharge": "279750.00",
+      "cess": "123090.0000",
+      "total_tax": "3200340.0000"
+    }
+  },
+  {
+    "case_id": 186,
+    "gross_salary": 10000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9925000",
+      "tax_before_rebate": "2667500",
+      "rebate": "0",
+      "tax_after_rebate": "2667500",
+      "surcharge": "266750.00",
+      "cess": "117370.0000",
+      "total_tax": "3051620.0000"
+    }
+  },
+  {
+    "case_id": 187,
+    "gross_salary": 10000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9925000",
+      "tax_before_rebate": "2667500",
+      "rebate": "0",
+      "tax_after_rebate": "2667500",
+      "surcharge": "266750.00",
+      "cess": "117370.0000",
+      "total_tax": "3051620.0000"
+    }
+  },
+  {
+    "case_id": 188,
+    "gross_salary": 10000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9925000",
+      "tax_before_rebate": "2667500",
+      "rebate": "0",
+      "tax_after_rebate": "2667500",
+      "surcharge": "266750.00",
+      "cess": "117370.0000",
+      "total_tax": "3051620.0000"
+    }
+  },
+  {
+    "case_id": 189,
+    "gross_salary": 10000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9925000",
+      "tax_before_rebate": "2667500",
+      "rebate": "0",
+      "tax_after_rebate": "2667500",
+      "surcharge": "266750.00",
+      "cess": "117370.0000",
+      "total_tax": "3051620.0000"
+    }
+  },
+  {
+    "case_id": 190,
+    "gross_salary": 10000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "10000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "9925000",
+      "tax_before_rebate": "2667500",
+      "rebate": "0",
+      "tax_after_rebate": "2667500",
+      "surcharge": "266750.00",
+      "cess": "117370.0000",
+      "total_tax": "3051620.0000"
+    }
+  },
+  {
+    "case_id": 191,
+    "gross_salary": 15000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14950000",
+      "tax_before_rebate": "4297500",
+      "rebate": "0",
+      "tax_after_rebate": "4297500",
+      "surcharge": "644625.00",
+      "cess": "197685.0000",
+      "total_tax": "5139810.0000"
+    }
+  },
+  {
+    "case_id": 192,
+    "gross_salary": 15000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "50000",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "50000"
+      },
+      "taxable_income": "14900000",
+      "tax_before_rebate": "4282500",
+      "rebate": "0",
+      "tax_after_rebate": "4282500",
+      "surcharge": "642375.00",
+      "cess": "196995.0000",
+      "total_tax": "5121870.0000"
+    }
+  },
+  {
+    "case_id": 193,
+    "gross_salary": 15000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "100000",
+        "section_80ccd_1b": "25000",
+        "section_80d": "35000",
+        "home_loan_interest": "100000",
+        "total_deductions": "260000"
+      },
+      "taxable_income": "14690000",
+      "tax_before_rebate": "4219500",
+      "rebate": "0",
+      "tax_after_rebate": "4219500",
+      "surcharge": "632925.00",
+      "cess": "194097.0000",
+      "total_tax": "5046522.0000"
+    }
+  },
+  {
+    "case_id": 194,
+    "gross_salary": 15000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "150000",
+        "section_80ccd_1b": "50000",
+        "section_80d": "50000",
+        "home_loan_interest": "200000",
+        "total_deductions": "450000"
+      },
+      "taxable_income": "14500000",
+      "tax_before_rebate": "4162500",
+      "rebate": "0",
+      "tax_after_rebate": "4162500",
+      "surcharge": "624375.00",
+      "cess": "191475.0000",
+      "total_tax": "4978350.0000"
+    }
+  },
+  {
+    "case_id": 195,
+    "gross_salary": 15000000,
+    "regime": "old_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "50000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14950000",
+      "tax_before_rebate": "4297500",
+      "rebate": "0",
+      "tax_after_rebate": "4297500",
+      "surcharge": "644625.00",
+      "cess": "197685.0000",
+      "total_tax": "5139810.0000"
+    }
+  },
+  {
+    "case_id": 196,
+    "gross_salary": 15000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14925000",
+      "tax_before_rebate": "4167500",
+      "rebate": "0",
+      "tax_after_rebate": "4167500",
+      "surcharge": "625125.00",
+      "cess": "191705.0000",
+      "total_tax": "4984330.0000"
+    }
+  },
+  {
+    "case_id": 197,
+    "gross_salary": 15000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14925000",
+      "tax_before_rebate": "4167500",
+      "rebate": "0",
+      "tax_after_rebate": "4167500",
+      "surcharge": "625125.00",
+      "cess": "191705.0000",
+      "total_tax": "4984330.0000"
+    }
+  },
+  {
+    "case_id": 198,
+    "gross_salary": 15000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14925000",
+      "tax_before_rebate": "4167500",
+      "rebate": "0",
+      "tax_after_rebate": "4167500",
+      "surcharge": "625125.00",
+      "cess": "191705.0000",
+      "total_tax": "4984330.0000"
+    }
+  },
+  {
+    "case_id": 199,
+    "gross_salary": 15000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14925000",
+      "tax_before_rebate": "4167500",
+      "rebate": "0",
+      "tax_after_rebate": "4167500",
+      "surcharge": "625125.00",
+      "cess": "191705.0000",
+      "total_tax": "4984330.0000"
+    }
+  },
+  {
+    "case_id": 200,
+    "gross_salary": 15000000,
+    "regime": "new_regime",
+    "status": "success",
+    "result": {
+      "gross_salary": "15000000",
+      "standard_deduction": "75000",
+      "deductions": {
+        "hra_exemption": "0",
+        "section_80c": "0",
+        "section_80ccd_1b": "0",
+        "section_80d": "0",
+        "home_loan_interest": "0",
+        "total_deductions": "0"
+      },
+      "taxable_income": "14925000",
+      "tax_before_rebate": "4167500",
+      "rebate": "0",
+      "tax_after_rebate": "4167500",
+      "surcharge": "625125.00",
+      "cess": "191705.0000",
+      "total_tax": "4984330.0000"
+    }
+  }
+]

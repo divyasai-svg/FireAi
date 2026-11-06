@@ -1,0 +1,502 @@
+[
+  {
+    "case_id": 1,
+    "query": "Calculate my income tax for a salary of 5 lakh under the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 2,
+    "query": "My annual salary is 5 lakh. How much tax should I pay under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 3,
+    "query": "I earn 5 lakh per year. Find my income tax using the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 4,
+    "query": "What will be my tax liability if my salary is 5 lakh under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 5,
+    "query": "Please calculate tax on my yearly income of 5 lakh using the old tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 6,
+    "query": "Calculate my income tax for a salary of 5 lakh under the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 7,
+    "query": "My annual salary is 5 lakh. How much tax should I pay under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 8,
+    "query": "I earn 5 lakh per year. Find my income tax using the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 9,
+    "query": "What will be my tax liability if my salary is 5 lakh under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 10,
+    "query": "Please calculate tax on my yearly income of 5 lakh using the new tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 11,
+    "query": "Calculate my income tax for a salary of 7 lakh under the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 12,
+    "query": "My annual salary is 7 lakh. How much tax should I pay under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 13,
+    "query": "I earn 7 lakh per year. Find my income tax using the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 14,
+    "query": "What will be my tax liability if my salary is 7 lakh under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 15,
+    "query": "Please calculate tax on my yearly income of 7 lakh using the old tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 16,
+    "query": "Calculate my income tax for a salary of 7 lakh under the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 17,
+    "query": "My annual salary is 7 lakh. How much tax should I pay under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 18,
+    "query": "I earn 7 lakh per year. Find my income tax using the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 19,
+    "query": "What will be my tax liability if my salary is 7 lakh under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 20,
+    "query": "Please calculate tax on my yearly income of 7 lakh using the new tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "700000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 21,
+    "query": "Calculate my income tax for a salary of 10 lakh under the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 22,
+    "query": "My annual salary is 10 lakh. How much tax should I pay under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 23,
+    "query": "I earn 10 lakh per year. Find my income tax using the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 24,
+    "query": "What will be my tax liability if my salary is 10 lakh under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 25,
+    "query": "Please calculate tax on my yearly income of 10 lakh using the old tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 26,
+    "query": "Calculate my income tax for a salary of 10 lakh under the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 27,
+    "query": "My annual salary is 10 lakh. How much tax should I pay under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 28,
+    "query": "I earn 10 lakh per year. Find my income tax using the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 29,
+    "query": "What will be my tax liability if my salary is 10 lakh under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 30,
+    "query": "Please calculate tax on my yearly income of 10 lakh using the new tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1000000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 31,
+    "query": "Calculate my income tax for a salary of 12 lakh under the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 32,
+    "query": "My annual salary is 12 lakh. How much tax should I pay under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 33,
+    "query": "I earn 12 lakh per year. Find my income tax using the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 34,
+    "query": "What will be my tax liability if my salary is 12 lakh under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 35,
+    "query": "Please calculate tax on my yearly income of 12 lakh using the old tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 36,
+    "query": "Calculate my income tax for a salary of 12 lakh under the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 37,
+    "query": "My annual salary is 12 lakh. How much tax should I pay under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 38,
+    "query": "I earn 12 lakh per year. Find my income tax using the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 39,
+    "query": "What will be my tax liability if my salary is 12 lakh under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 40,
+    "query": "Please calculate tax on my yearly income of 12 lakh using the new tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1200000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 41,
+    "query": "Calculate my income tax for a salary of 15 lakh under the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 42,
+    "query": "My annual salary is 15 lakh. How much tax should I pay under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 43,
+    "query": "I earn 15 lakh per year. Find my income tax using the old regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 44,
+    "query": "What will be my tax liability if my salary is 15 lakh under the old regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 45,
+    "query": "Please calculate tax on my yearly income of 15 lakh using the old tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "old_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 46,
+    "query": "Calculate my income tax for a salary of 15 lakh under the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 47,
+    "query": "My annual salary is 15 lakh. How much tax should I pay under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 48,
+    "query": "I earn 15 lakh per year. Find my income tax using the new regime.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 49,
+    "query": "What will be my tax liability if my salary is 15 lakh under the new regime?",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  },
+  {
+    "case_id": 50,
+    "query": "Please calculate tax on my yearly income of 15 lakh using the new tax system.",
+    "parsed_result": {
+      "status": "success",
+      "gross_salary": "1500000",
+      "regime": "new_regime"
+    },
+    "passed": true
+  }
+]

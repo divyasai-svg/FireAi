@@ -1,0 +1,34 @@
+
+{
+  "rules_based": {
+    "total_cases": 200,
+    "successful_cases": 200,
+    "failed_cases": 0,
+    "execution_success_rate": 100.0,
+    "tax_accuracy": "Pending independent validation"
+  },
+  "llm_query_time": {
+    "total_cases": 10,
+    "successful_cases": 10,
+    "failed_cases": 0,
+    "response_success_rate": 100.0,
+    "average_latency_seconds": 17.325,
+    "cost": "Not measured",
+    "tax_accuracy": "Pending independent validation"
+  },
+  "llm_compiled_rules": {
+    "total_cases": 10,
+    "successful_cases": 10,
+    "failed_cases": 0,
+    "response_success_rate": 100.0,
+    "average_latency_seconds": 23.194,
+    "cost": "Not measured",
+    "tax_accuracy": "Pending independent validation"
+  },
+  "parser": {
+    "total_cases": 50,
+    "correct_cases": 50,
+    "accuracy": 100.0
+  },
+  "evaluation_note": "All 20 Gemini API requests succeeded. Tax accuracy has not yet been independently validated. The supplied rules do not include all applicable tax provisions, including Section 87A rebate and cess."
+}

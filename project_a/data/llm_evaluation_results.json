@@ -1,0 +1,158 @@
+{
+  "llm_query_time": [
+    {
+      "case_id": 1,
+      "query": "Calculate my income tax for a salary of 5 lakh under the old regime.",
+      "response": "Here is the step-by-step calculation of your income tax for the **Financial Year 2024-25 (Assessment Year 2025-26)** under the **Old Tax Regime**, based strictly on the provided tax rules.\n\n---\n\n### **1. Inputs Provided**\n* **Gross Salary:** \u20b95,00,000\n* **Selected Tax Regime:** Old Tax Regime\n* **Taxpayer Category:** Individual below 60 years\n\n---\n\n### **2. Calculation Breakdown**\n\n#### **Step 1: Calculate Net Taxable Income**\n* **Gross Salary:** \u20b95,00,000\n* **Less:** Standard Deduction (Old Regime): \u20b950,000\n* **Net Taxable Income:** \u20b95,00,000 - \u20b950,000 = **\u20b94,50,000**\n\n---\n\n#### **Step 2: Apply Old Tax Regime Slabs**\n\n| Taxable Income Slab | Applicable Tax Rate | Calculation | Tax Amount |\n| :--- | :--- | :--- | :--- |\n| **\u20b90 \u2013 \u20b92,50,000** | 0% | 0% of \u20b92,50,000 | \u20b90 |\n| **\u20b92,50,000 \u2013 \u20b94,50,000** | 5% | 5% of (\u20b94,50,000 - \u20b92,50,000 = \u20b92,00,000) | \u20b910,000 |\n\n---\n\n### **3. Final Summary**\n\n* **Total Tax Payable:** **\u20b910,000**\n\n*(Note: This calculation strictly uses the provided standard deduction and income tax slabs. Other deductions under Chapter VI-A such as Section 80C, 80D, or tax rebates/cess are not included as they were not provided in the tax rules JSON).*",
+      "latency_seconds": 13.613,
+      "status": "success"
+    },
+    {
+      "case_id": 2,
+      "query": "My annual salary is 5 lakh. How much tax should I pay under the old regime?",
+      "response": "Based on the tax rules provided for **FY 2024-25 (AY 2025-26)** under the **Old Tax Regime**, here is the step-by-step calculation of your income tax.\n\n---\n\n### **1. Details Provided & Assumptions**\n* **Financial Year (FY):** 2024-25\n* **Assessment Year (AY):** 2025-26\n* **Annual Salary (Gross):** \u20b95,00,000\n* **Tax Regime:** Old Tax Regime\n* **Taxpayer Category:** Individual below 60 years of age\n\n*(Note: No additional deductions under Chapter VI-A such as 80C, 80D, or HRA exemptions were provided. Only the Standard Deduction from the supplied rules has been applied.)*\n\n---\n\n### **2. Calculation of Net Taxable Income**\n\n| Description | Amount (\u20b9) |\n| :--- | :--- |\n| **Gross Annual Salary** | \u20b95,00,000 |\n| **Less:** Standard Deduction (Old Regime) | - \u20b950,000 |\n| **Net Taxable Income** | **\u20b94,50,000** |\n\n---\n\n### **3. Tax Computation as per Old Regime Slabs**\n\n| Taxable Income Slab | Applicable Rate | Tax Amount (\u20b9) |\n| :--- | :--- | :--- |\n| **\u20b90 to \u20b92,50,000** | 0% | \u20b90 |\n| **\u20b92,50,000 to \u20b94,50,000** (Amount: \u20b92,00,000) | 5% | \u20b910,000 |\n| **\u20b94,50,000 to \u20b95,00,000+** | N/A | \u20b90 |\n\n---\n\n### **4. Final Tax Payable Summary**\n\n* **Total Income Tax:** **\u20b910,000**\n\n---\n\n### **Additional Information Note:**\nIf you have investments or expenses eligible for deductions under the Old Regime (such as Section 80C, 80D, HRA, etc.), your net taxable income could decrease further, which may reduce your final tax payable.",
+      "latency_seconds": 12.543,
+      "status": "success"
+    },
+    {
+      "case_id": 3,
+      "query": "I earn 5 lakh per year. Find my income tax using the old regime.",
+      "response": "Here is the step-by-step income tax calculation based **strictly on the rules provided**:\n\n---\n\n### **1. Input Details**\n* **Gross Annual Income:** \u20b95,00,000\n* **Selected Tax Regime:** Old Tax Regime\n* **Taxpayer Category:** Individual (below 60 years)\n* **Financial Year:** 2024-25 (Assessment Year 2025-26)\n\n---\n\n### **2. Deduction Applied**\n* **Standard Deduction (Old Regime):** \u20b950,000\n\n$$\\text{Net Taxable Income} = \\text{Gross Income} - \\text{Standard Deduction}$$\n$$\\text{Net Taxable Income} = \u20b95,00,000 - \u20b950,000 = \\mathbf{\u20b94,50,000}$$\n\n---\n\n### **3. Tax Slab Breakdown (Old Regime Rules)**\n\n| Income Slab | Applicable Tax Rate | Taxable Amount in Slab | Tax Amount |\n| :--- | :---: | :---: | :---: |\n| **\u20b90 to \u20b92,50,000** | 0% | \u20b92,50,000 | \u20b90 |\n| **\u20b92,50,000 to \u20b94,50,000** | 5% | \u20b92,00,000 | \u20b910,000 |\n\n* **Calculation:**  \n  * First \u20b92,50,000 is tax-free = **\u20b90**\n  * Remaining \u20b92,00,000 (from \u20b92,50,000 to \u20b94,50,000) taxed at 5% = $2,00,000 \\times 5\\% = \\mathbf{\u20b910,000}$\n\n---\n\n### **4. Total Tax Liability**\n* **Total Tax payable:** **\u20b910,000**\n\n*(Note: This calculation uses strictly the standard deduction and slab rates provided in the context. No additional provisions, rebates, or cess were applied as they were not included in the provided rules.)*",
+      "latency_seconds": 12.159,
+      "status": "success"
+    },
+    {
+      "case_id": 4,
+      "query": "What will be my tax liability if my salary is 5 lakh under the old regime?",
+      "response": "Based on the provided tax rules for FY 2024-25 (AY 2025-26), here is the step-by-step calculation of your tax liability under the **Old Tax Regime**.\n\n---\n\n### **1. Summary of Details Provided**\n* **Gross Salary:** \u20b95,00,000\n* **Selected Tax Regime:** Old Regime\n* **Taxpayer Category:** Individual (below 60 years)\n\n---\n\n### **2. Calculation of Net Taxable Income**\n\n* **Gross Salary:** \u20b95,00,000  \n* **Less Standard Deduction (Old Regime):** \u20b950,000  \n* **Net Taxable Income:** **\u20b94,50,000**\n\n---\n\n### **3. Slab-wise Tax Calculation (Old Regime)**\n\nUsing the provided slab rates for the Old Regime:\n1. **\u20b90 to \u20b92,50,000 (Rate: 0%)**  \n   * Tax: **\u20b90**\n2. **\u20b92,50,000 to \u20b94,50,000 (Rate: 5%)**  \n   * Amount taxable in this slab: \u20b94,50,000 - \u20b92,50,000 = \u20b92,00,000  \n   * Tax (5% of \u20b92,00,000): **\u20b910,000**\n\n---\n\n### **4. Final Tax Liability**\n\n* **Total Income Tax:** **\u20b910,000**\n\n*(Note: This calculation strictly uses the rules and standard deduction provided above. Additional deductions under Chapter VI-A such as Section 80C, 80D, HRA, rebate under section 87A, or Health & Education Cess have not been applied as they are not part of the supplied tax rules).*",
+      "latency_seconds": 9.521,
+      "status": "success"
+    },
+    {
+      "case_id": 5,
+      "query": "Please calculate tax on my yearly income of 5 lakh using the old tax system.",
+      "response": "Based on the financial rules provided for **FY 2024-25 (AY 2025-26)**, here is the step-by-step tax calculation under the **Old Tax Regime**.\n\n---\n\n### **1. Summary of Details Provided**\n* **Gross Income:** \u20b95,00,000\n* **Selected Tax Regime:** Old Tax Regime\n* **Taxpayer Category:** Individual (below 60 years)\n\n---\n\n### **2. Calculation of Taxable Income**\n\nAs per the provided rules, a **Standard Deduction of \u20b950,000** is applicable under the Old Tax Regime (assuming this is salary income).\n\n$$\\text{Gross Yearly Income} = \u20b95,00,000$$\n$$\\text{Less: Standard Deduction} = \u20b950,000$$\n$$\\mathbf{\\text{Net Taxable Income}} = \\mathbf{\u20b94,50,000}$$\n\n---\n\n### **3. Slab-wise Tax Calculation (Old Regime)**\n\nUsing the supplied old regime tax slabs on the Net Taxable Income of **\u20b94,50,000**:\n\n1. **\u20b90 to \u20b92,50,000 @ 0%:**\n   * Tax = \u20b90\n\n2. **\u20b92,50,000 to \u20b94,50,000 @ 5%:**\n   * Taxable amount in this slab = \u20b94,50,000 - \u20b92,50,000 = \u20b92,00,000\n   * Tax = 5% of \u20b92,00,000 = **\u20b910,000**\n\n---\n\n### **4. Final Tax Calculation**\n\n* **Total Tax Payable:** **\u20b910,000**\n\n---\n\n*(Note: If the standard deduction does not apply to your type of income, the tax calculated directly on \u20b95,00,000 would be 5% of \u20b92,50,000 = **\u20b912,500**. This calculation strictly follows the tax slabs and standard deduction rules provided above.)*",
+      "latency_seconds": 10.643,
+      "status": "success"
+    },
+    {
+      "case_id": 6,
+      "query": "Calculate my income tax for a salary of 5 lakh under the new regime.",
+      "response": "Here is the step-by-step calculation of your income tax for **FY 2024-25 (AY 2025-26)** under the **New Tax Regime** based strictly on the provided rules.\n\n---\n\n### **1. Taxpayer & Income Summary**\n* **Taxpayer Category:** Individual below 60 years\n* **Selected Tax Regime:** New Tax Regime\n* **Gross Salary:** \u20b95,00,000\n\n---\n\n### **2. Calculation of Net Taxable Income**\n\n| Description | Amount (\u20b9) |\n| :--- | :--- |\n| **Gross Salary** | \u20b95,00,000 |\n| **Less:** Standard Deduction (New Regime) | - \u20b975,000 |\n| **Net Taxable Income** | **\u20b94,25,000** |\n\n---\n\n### **3. Slab-wise Income Tax Calculation**\n\nYour Net Taxable Income is **\u20b94,25,000**. We apply the New Tax Regime slabs as follows:\n\n1. **Slab 1: \u20b90 to \u20b93,00,000 @ 0%**\n   * Taxable Amount in this slab: \u20b93,00,000\n   * Tax = \u20b90\n\n2. **Slab 2: \u20b93,00,000 to \u20b97,00,000 @ 5%**\n   * Taxable Amount in this slab: \u20b94,25,000 - \u20b93,00,000 = **\u20b91,25,000**\n   * Tax = 5% of \u20b91,25,000 = **\u20b96,250**\n\n---\n\n### **4. Final Tax Liability**\n\n* **Base Income Tax:** **\u20b96,250**\n\n*(Note: Calculated strictly as per the standard deduction and tax slabs provided in the rules).*",
+      "latency_seconds": 35.02,
+      "status": "success"
+    },
+    {
+      "case_id": 7,
+      "query": "My annual salary is 5 lakh. How much tax should I pay under the new regime?",
+      "response": "Here is the step-by-step tax calculation based on the details you provided and the official tax rules supplied for **FY 2024-25 (AY 2025-26)** under the **New Tax Regime**.\n\n---\n\n### **1. Input Summary**\n* **Gross Annual Salary:** \u20b95,00,000\n* **Tax Regime Chosen:** New Tax Regime\n* **Taxpayer Category:** Individual (below 60 years of age)\n\n---\n\n### **2. Calculation of Net Taxable Income**\n\n1. **Gross Salary:** \u20b95,00,000\n2. **Less: Standard Deduction (New Regime):** \u20b975,000\n3. **Net Taxable Income:** \u20b95,00,000 - \u20b975,000 = **\u20b94,25,000**\n\n---\n\n### **3. Application of Tax Slabs (New Regime)**\n\nBased on the supplied tax slabs:\n* **\u20b90 to \u20b93,00,000 @ 0%:** \u20b90\n* **\u20b93,00,000 to \u20b94,25,000 (Amount: \u20b91,25,000) @ 5%:** \n  $$\\text{Tax} = 5\\% \\text{ of } \u20b91,25,000 = \u20b96,250$$\n\n---\n\n### **4. Final Tax Payable**\n\n* **Total Tax Payable:** **\u20b96,250**\n\n*(Note: Calculated strictly based on the provided tax slabs and standard deduction rules).*",
+      "latency_seconds": 38.582,
+      "status": "success"
+    },
+    {
+      "case_id": 8,
+      "query": "I earn 5 lakh per year. Find my income tax using the new regime.",
+      "response": "Here is the step-by-step calculation of your income tax under the **New Tax Regime** for **FY 2024-25 (AY 2025-26)** based strictly on the rules provided:\n\n---\n\n### **1. Summary of Details**\n* **Gross Annual Income:** \u20b95,00,000\n* **Selected Tax Regime:** New Tax Regime\n* **Taxpayer Category:** Individual below 60 years\n\n---\n\n### **2. Calculation of Net Taxable Income**\n\n| Description | Amount (\u20b9) |\n| :--- | :--- |\n| **Gross Salary / Income** | \u20b95,00,000 |\n| **Less: Standard Deduction** (as per New Regime rules) | - \u20b975,000 |\n| **Net Taxable Income** | **\u20b94,25,000** |\n\n---\n\n### **3. Tax Calculation Based on New Regime Slabs**\n\nAccording to the provided slabs, tax is calculated on the **Net Taxable Income of \u20b94,25,000** as follows:\n\n1. **Up to \u20b93,00,000:**  \n   * Tax Rate: 0%  \n   * **Tax:** \u20b90\n\n2. **\u20b93,00,000 to \u20b94,25,000** (Amount = \u20b91,25,000):  \n   * Tax Rate: 5%  \n   * Calculation: 5% of \u20b91,25,000  \n   * **Tax:** \u20b96,250\n\n---\n\n### **Final Tax Payable**\n* **Total Tax:** **\u20b96,250**\n\n*(Note: Calculations are strictly based on the standard deduction and slab rules provided in the prompt.)*",
+      "latency_seconds": 20.189,
+      "status": "success"
+    },
+    {
+      "case_id": 9,
+      "query": "What will be my tax liability if my salary is 5 lakh under the new regime?",
+      "response": "Based on the tax rules provided for **Financial Year 2024-25 (Assessment Year 2025-26)**, here is the step-by-step calculation of your income tax liability under the **New Tax Regime**:\n\n---\n\n### **1. Input Details**\n* **Gross Salary:** \u20b95,00,000\n* **Selected Tax Regime:** New Tax Regime\n* **Taxpayer Category:** Individual (below 60 years)\n\n---\n\n### **2. Calculation of Taxable Income**\n\n1. **Gross Salary:** \u20b95,00,000\n2. **Less: Standard Deduction (New Regime):** \u20b975,000\n3. **Net Taxable Income:** \u20b95,00,000 - \u20b975,000 = **\u20b94,25,000**\n\n---\n\n### **3. Tax Calculation (As per New Regime Slabs)**\n\n* **Slab 1: \u20b90 to \u20b93,00,000 @ 0%**\n  $$\\text{Tax} = \u20b90$$\n\n* **Slab 2: \u20b93,00,000 to \u20b94,25,000 (Amount = \u20b91,25,000) @ 5%**\n  $$\\text{Tax} = 5\\% \\text{ of } \u20b91,25,000 = \u20b96,250$$\n\n---\n\n### **4. Final Tax Liability Summary**\n\n| Calculation Step | Amount (\u20b9) |\n| :--- | :--- |\n| **Gross Salary** | \u20b95,00,000 |\n| **Standard Deduction** | -\u20b975,000 |\n| **Net Taxable Income** | **\u20b94,25,000** |\n| Tax on Income up to \u20b93,00,000 | \u20b90 |\n| Tax on \u20b93,00,001 to \u20b94,25,000 (5%) | \u20b96,250 |\n| **Total Tax Liability** | **\u20b96,250** |\n\n---\n\n*(Note: The above calculation strictly uses the provided rules for standard deduction and income tax slabs.)*",
+      "latency_seconds": 11.93,
+      "status": "success"
+    },
+    {
+      "case_id": 10,
+      "query": "Please calculate tax on my yearly income of 5 lakh using the new tax system.",
+      "response": "Based on the tax rules provided for **FY 2024-25 (AY 2025-26)**, here is the step-by-step calculation of your income tax under the **New Tax Regime**.\n\n---\n\n### **1. Input Details Identified**\n* **Gross Income:** \u20b95,00,000\n* **Selected Tax Regime:** New Tax Regime\n* **Taxpayer Category:** Individual below 60 years of age\n\n---\n\n### **2. Calculation Steps**\n\n#### **Step 1: Calculate Net Taxable Income**\nUnder the New Tax Regime, a standard deduction of \u20b975,000 is applicable.\n\n* **Gross Income:** \u20b95,00,000  \n* **Less Standard Deduction:** -\u20b975,000  \n* **Net Taxable Income:** **\u20b94,25,000**\n\n---\n\n#### **Step 2: Apply New Tax Regime Slabs**\nTaxable Income = **\u20b94,25,000**\n\n| Income Slab | Tax Rate | Calculation | Tax Amount |\n| :--- | :--- | :--- | :--- |\n| **\u20b90 to \u20b93,00,000** | 0% | \u20b93,00,000 \u00d7 0% | \u20b90 |\n| **\u20b93,00,000 to \u20b94,25,000** | 5% | \u20b91,25,000 \u00d7 5% | \u20b96,250 |\n| **Total Base Tax** | | | **\u20b96,250** |\n\n---\n\n### **3. Final Tax Payable**\n\n* **Total Tax Payable:** **\u20b96,250**\n\n*(Note: Calculated strictly based on the standard deduction and slab rates provided in the rules above).*",
+      "latency_seconds": 9.045,
+      "status": "success"
+    }
+  ],
+  "llm_compiled_rules": [
+    {
+      "case_id": 1,
+      "query": "Calculate my income tax for a salary of 5 lakh under the old regime.",
+      "response": "Here is the step-by-step calculation of your income tax based strictly on the provided tax rules for FY 2024-25 (AY 2025-26):\n\n---\n\n### **1. Identified Details**\n* **Gross Salary:** \u20b95,00,000  \n* **Tax Regime:** Old Tax Regime  \n* **Taxpayer Category:** Individual below 60  \n\n---\n\n### **2. Calculation of Taxable Income**\n\n* **Gross Salary:** \u20b95,00,000  \n* **Less: Standard Deduction (Old Regime):** \u20b950,000  \n* **Net Taxable Income:** \u20b95,00,000 - \u20b950,000 = **\u20b94,50,000**\n\n---\n\n### **3. Income Tax Calculation (Slab Rates)**\n\nApplying the Old Regime tax slabs to the Net Taxable Income of \u20b94,50,000:\n\n1. **\u20b90 to \u20b92,50,000** @ 0% = **\u20b90**  \n2. **\u20b92,50,000 to \u20b94,50,000** (Amount: \u20b92,00,000) @ 5% = **\u20b910,000**  \n\n* **Total Calculated Tax:** **\u20b910,000**\n\n---\n\n### **Important Notes / Missing Rules:**\n* **Additional Deductions:** If you have any additional deductions (such as under Section 80C, 80D, etc.), please provide them, as they could further reduce your taxable income under the Old Regime.\n* **Rebate / Cess:** Specific provisions such as Section 87A rebate or Health & Education Cess are not included in the supplied rules, so they have not been factored into this calculation.",
+      "latency_seconds": 27.587,
+      "status": "success"
+    },
+    {
+      "case_id": 2,
+      "query": "My annual salary is 5 lakh. How much tax should I pay under the old regime?",
+      "response": "Based on the rules provided, here is the step-by-step tax calculation for your salary under the **Old Tax Regime** for an individual below 60 years of age:\n\n---\n\n### **1. Identified Details**\n* **Annual Gross Salary:** \u20b95,00,000\n* **Tax Regime:** Old Regime\n* **Category:** Individual below 60 years\n\n---\n\n### **2. Calculation Steps**\n\n#### **Step 1: Calculate Net Taxable Income**\n* **Gross Salary:** \u20b95,00,000\n* **Less Standard Deduction (Old Regime):** \u20b950,000\n* **Net Taxable Income:** \u20b95,00,000 - \u20b950,000 = **\u20b94,50,000**\n\n*(Note: If you have other eligible deductions under the old regime, such as Section 80C, 80D, HRA, etc., you have not provided them. The calculation below is based strictly on the standard deduction provided in the rules).*\n\n---\n\n#### **Step 2: Calculate Tax Based on Old Regime Slabs**\n\n* **Slab 1 (\u20b90 to \u20b92,50,000 at 0%):**  \n  * Tax = **\u20b90**\n\n* **Slab 2 (\u20b92,50,000 to \u20b94,50,000 at 5%):**  \n  * Income in this slab = \u20b94,50,000 - \u20b92,50,000 = \u20b92,00,000  \n  * Tax = 5% of \u20b92,00,000 = **\u20b910,000**\n\n---\n\n### **Total Tax Payable**\n* **Total Tax:** **\u20b910,000**\n\n---\n\n### **Note on Missing/Additional Information:**\nIf you have additional deductions or exemptions (such as 80C investments, health insurance under 80D, or House Rent Allowance), please provide them to calculate a further reduced taxable income.",
+      "latency_seconds": 13.229,
+      "status": "success"
+    },
+    {
+      "case_id": 3,
+      "query": "I earn 5 lakh per year. Find my income tax using the old regime.",
+      "response": "Based on the rules provided, here is the step-by-step calculation of your income tax under the **Old Tax Regime** for Financial Year 2024-25 (Assessment Year 2025-26).\n\n---\n\n### **Step 1: Identify Income & Tax Regime**\n* **Gross Income / Salary:** \u20b95,00,000\n* **Tax Regime:** Old Regime\n* **Taxpayer Category:** Individual (below 60 years)\n\n---\n\n### **Step 2: Calculate Net Taxable Income**\nUnder the Old Regime, a standard deduction applies to your salary:\n\n* **Gross Income:** \u20b95,00,000\n* **Less Standard Deduction (Old Regime):** \u20b950,000\n* **Net Taxable Income:** **\u20b94,50,000**\n\n*(Note: If you have additional deductions under Chapter VI-A such as Section 80C, Section 80D, or HRA, please provide those details as they were not mentioned and could further reduce your taxable income.)*\n\n---\n\n### **Step 3: Apply Old Regime Tax Slabs**\n\nUsing the supplied tax slabs for the Old Regime:\n1. **\u20b90 to \u20b92,50,000 (Rate: 0%)**\n   * Tax = \u20b90\n\n2. **\u20b92,50,000 to \u20b94,50,000 (Amount = \u20b92,00,000, Rate: 5%)**\n   * 5% of \u20b92,00,000 = **\u20b910,000**\n\n---\n\n### **Step 4: Total Tax Calculation**\n\n* **Income Tax Payable:** **\u20b910,000**\n\n---\n\n### **Summary**\n* **Gross Salary:** \u20b95,00,000\n* **Standard Deduction:** \u20b950,000\n* **Net Taxable Income:** \u20b94,50,000\n* **Total Tax Payable:** **\u20b910,000**",
+      "latency_seconds": 23.831,
+      "status": "success"
+    },
+    {
+      "case_id": 4,
+      "query": "What will be my tax liability if my salary is 5 lakh under the old regime?",
+      "response": "Based on the tax rules provided, here is the step-by-step calculation of your tax liability:\n\n---\n\n### **1. Identified Details**\n* **Gross Salary:** \u20b95,00,000\n* **Tax Regime:** Old Regime\n* **Taxpayer Category:** Individual (below 60 years)\n\n---\n\n### **2. Calculation of Taxable Income**\n\n* **Gross Salary:** \u20b95,00,000  \n* **Less Standard Deduction (Old Regime):** \u20b950,000  \n* **Taxable Income:** \u20b94,50,000  \n\n---\n\n### **3. Tax Calculation (as per Old Regime Slabs)**\n\n1. **\u20b90 to \u20b92,50,000:**  \n   * Rate: 0%  \n   * Tax: **\u20b90**\n\n2. **\u20b92,50,000 to \u20b94,50,000 (Amount = \u20b92,00,000):**  \n   * Rate: 5%  \n   * Tax: 5% of \u20b92,00,000 = **\u20b910,000**\n\n---\n\n### **4. Total Tax Liability**\n* **Total Tax:** **\u20b910,000**\n\n---\n\n### **Note / Clarification:**\n* This calculation is based **strictly on the rules provided**, applying only the Standard Deduction of \u20b950,000.\n* If you have additional deductions (such as Section 80C, 80D, HRA, etc.), please provide those details to get an updated calculation.",
+      "latency_seconds": 34.319,
+      "status": "success"
+    },
+    {
+      "case_id": 5,
+      "query": "Please calculate tax on my yearly income of 5 lakh using the old tax system.",
+      "response": "Based on the rules provided, here is the tax calculation for your yearly income of \u20b95,00,000 under the **Old Tax Regime** for Financial Year 2024-25 (Assessment Year 2025-26).\n\n---\n\n### 1. Identification of Details\n* **Taxpayer Category:** Individual below 60 years\n* **Tax Regime:** Old Tax Regime\n* **Yearly Income:** \u20b95,00,000 (5 Lakh)\n\n---\n\n### 2. Missing Information / Clarification Required\n* **Income Type:** It is not specified whether your \u20b95,00,000 income is **Salary Income** or **Non-Salary Income**. Under the supplied rules, a **Standard Deduction of \u20b950,000** applies to salary income under the Old Regime.\n\n---\n\n### 3. Step-by-Step Tax Calculation\n\nSince the exact nature of your income is not specified, here are the calculations for both possibilities:\n\n#### **Scenario A: If your income is Salary Income**\n1. **Gross Salary:** \u20b95,00,000\n2. **Deduct Standard Deduction:** \u20b950,000\n3. **Net Taxable Income:** \u20b94,50,000\n\n**Tax Slab Breakdown:**\n* **\u20b90 to \u20b92,50,000 @ 0%:** \u20b90\n* **\u20b92,50,000 to \u20b94,50,000 (\u20b92,00,000 @ 5%):** \u20b910,000\n\n* **Total Income Tax:** **\u20b910,000**\n\n---\n\n#### **Scenario B: If your income is Non-Salary Income (No Standard Deduction)**\n1. **Gross Income:** \u20b95,00,000\n2. **Standard Deduction:** \u20b90\n3. **Net Taxable Income:** \u20b95,00,000\n\n**Tax Slab Breakdown:**\n* **\u20b90 to \u20b92,50,000 @ 0%:** \u20b90\n* **\u20b92,50,000 to \u20b95,00,000 (\u20b92,50,000 @ 5%):** \u20b912,500\n\n* **Total Income Tax:** **\u20b912,500**\n\n---\n\n*(Note: This calculation strictly uses only the tax slabs and standard deduction provided in the reference rules. No additional deductions or provisions outside the supplied JSON have been applied.)*",
+      "latency_seconds": 29.942,
+      "status": "success"
+    },
+    {
+      "case_id": 6,
+      "query": "Calculate my income tax for a salary of 5 lakh under the new regime.",
+      "response": "Based on the tax rules provided for **FY 2024-25 (AY 2025-26)** for an individual below 60 years of age, here is the step-by-step calculation of your income tax under the **New Tax Regime**:\n\n---\n\n### **1. Identified Details**\n* **Gross Salary:** \u20b95,00,000\n* **Tax Regime:** New Regime\n\n---\n\n### **2. Calculation of Net Taxable Income**\n* **Gross Salary:** \u20b95,00,000\n* **Less Standard Deduction (New Regime):** \u20b975,000\n* **Net Taxable Income:** \u20b95,00,000 - \u20b975,000 = **\u20b94,25,000**\n\n---\n\n### **3. Application of Tax Slabs (New Regime)**\n\n| Income Slab | Taxable Amount in Slab | Rate | Tax Amount |\n| :--- | :--- | :--- | :--- |\n| **\u20b90 \u2013 \u20b93,00,000** | \u20b93,00,000 | 0% | \u20b90 |\n| **\u20b93,00,000 \u2013 \u20b97,00,000** | \u20b91,25,000 (amount from \u20b93L to \u20b94.25L) | 5% | \u20b96,250 |\n\n---\n\n### **4. Final Tax Calculation**\n* **Total Tax:** **\u20b96,250**\n\n*(Note: Calculated strictly based on the provided JSON rules. Additional provisions like tax rebates or health and education cess are not defined in the provided rules, so they have not been included.)*",
+      "latency_seconds": 37.398,
+      "status": "success"
+    },
+    {
+      "case_id": 7,
+      "query": "My annual salary is 5 lakh. How much tax should I pay under the new regime?",
+      "response": "Based strictly on the tax rules provided for **FY 2024-25 (AY 2025-26)**, here is the step-by-step calculation of your income tax under the **New Tax Regime**:\n\n---\n\n### **1. Identified Details**\n* **Annual Gross Salary:** \u20b95,00,000  \n* **Tax Regime Chosen:** New Regime  \n* **Taxpayer Category:** Individual below 60  \n\n---\n\n### **2. Calculation of Taxable Income**\n* **Gross Salary:** \u20b95,00,000  \n* **Less Standard Deduction (New Regime):** \u20b975,000  \n* **Net Taxable Income:** \u20b95,00,000 - \u20b975,000 = **\u20b94,25,000**  \n\n---\n\n### **3. Slab-wise Tax Calculation (New Regime)**\n\nBased on the provided tax slabs:\n* **Up to \u20b93,00,000:** **0%**  \n  * Tax = **\u20b90**  \n\n* **\u20b93,00,000 to \u20b94,25,000** (Remaining amount of \u20b91,25,000): **5%**  \n  * 5% of \u20b91,25,000 = **\u20b96,250**  \n\n---\n\n### **Total Income Tax Payable**\n* **Total Tax:** **\u20b96,250**\n\n*(Note: This calculation relies strictly on the provided tax rules. Additional provisions, such as Section 87A rebate or Health & Education Cess, are not included in the supplied rules and have not been applied.)*",
+      "latency_seconds": 16.829,
+      "status": "success"
+    },
+    {
+      "case_id": 8,
+      "query": "I earn 5 lakh per year. Find my income tax using the new regime.",
+      "response": "Based on the provided tax rules for FY 2024-25 (AY 2025-26), here is the step-by-step calculation of your income tax under the **New Tax Regime**:\n\n---\n\n### **1. Identified Inputs**\n* **Gross Salary / Income:** \u20b95,00,000 (5 Lakh)\n* **Tax Regime Chosen:** New Regime\n* **Taxpayer Category:** Individual below 60 years of age\n\n---\n\n### **2. Deduction Calculation**\n* **Gross Income:** \u20b95,00,000\n* **Standard Deduction (New Regime):** \u20b975,000\n* **Net Taxable Income:** \u20b95,00,000 \u2212 \u20b975,000 = **\u20b94,25,000**\n\n---\n\n### **3. Tax Calculation as per New Regime Slabs**\n\n| Income Slab | Rate | Taxable Amount in Slab | Tax Calculated |\n| :--- | :--- | :--- | :--- |\n| **\u20b90 \u2013 \u20b93,00,000** | 0% | \u20b93,00,000 | \u20b90 |\n| **\u20b93,00,000 \u2013 \u20b94,25,000** | 5% | \u20b91,25,000 | \u20b96,250 |\n\n* **Tax on \u20b90 to \u20b93,00,000:** \u20b90  \n* **Tax on \u20b93,00,000 to \u20b94,25,000 (5% of \u20b91,25,000):** \u20b96,250  \n\n---\n\n### **4. Total Income Tax**\n* **Total Tax Payable:** **\u20b96,250**\n\n---\n\n*(Note: As per the supplied rules, provisions such as Health and Education Cess or Section 87A rebate are not included, so they have not been applied to this calculation.)*",
+      "latency_seconds": 15.177,
+      "status": "success"
+    },
+    {
+      "case_id": 9,
+      "query": "What will be my tax liability if my salary is 5 lakh under the new regime?",
+      "response": "Based on the tax rules provided for Financial Year 2024-25 (Assessment Year 2025-26), here is the step-by-step calculation of your tax liability under the **New Tax Regime**:\n\n---\n\n### **1. Identified Details**\n* **Gross Salary:** \u20b95,00,000\n* **Tax Regime:** New Tax Regime\n* **Taxpayer Category:** Individual (below 60 years)\n\n---\n\n### **2. Calculation of Taxable Income**\n* **Gross Salary:** \u20b95,00,000  \n* **Less: Standard Deduction (New Regime):** \u20b975,000  \n* **Net Taxable Income:** \u20b95,00,000 - \u20b975,000 = **\u20b94,25,000**\n\n---\n\n### **3. Calculation of Tax Liability as per Slabs**\n\nApplying the New Tax Regime slabs to the taxable income of \u20b94,25,000:\n\n1. **Up to \u20b93,00,000 (0%):**  \n   * Tax = \u20b90\n\n2. **\u20b93,00,000 to \u20b94,25,000 (Income portion of \u20b91,25,000 at 5%):**  \n   * Tax = 5% of \u20b91,25,000 = **\u20b96,250**\n\n---\n\n### **Total Tax Liability:**\n* **Total Tax:** **\u20b96,250**\n\n*(Note: This calculation strictly uses the provided rules. Additional statutory components such as Section 87A rebate or Health & Education Cess were not included in the supplied rule set.)*",
+      "latency_seconds": 14.466,
+      "status": "success"
+    },
+    {
+      "case_id": 10,
+      "query": "Please calculate tax on my yearly income of 5 lakh using the new tax system.",
+      "response": "Based on the provided tax rules for **FY 2024-25 (AY 2025-26)**, here is the tax calculation using the **New Tax Regime**.\n\n---\n\n### **1. Identification of Income & Tax Regime**\n* **Tax Regime:** New Tax Regime\n* **Total Yearly Income:** \u20b95,00,000\n* **Income Type:** Not specified (Salary vs. Non-Salary). \n\n> *Note: Standard Deduction applies to salaried individuals. Below are calculations for both scenarios.*\n\n---\n\n### **2. Calculation Steps**\n\n#### **Scenario A: If the income is from SALARY**\n\n1. **Gross Salary:** \u20b95,00,000\n2. **Less Standard Deduction (New Regime):** \u20b975,000\n3. **Net Taxable Income:** \u20b95,00,000 - \u20b975,000 = **\u20b94,25,000**\n\n**Slab-wise Tax Calculation:**\n* **\u20b90 to \u20b93,00,000 (Rate: 0%):** \u20b90\n* **\u20b93,00,000 to \u20b94,25,000 (Amount: \u20b91,25,000 @ 5%):** \u20b96,250\n\n**Total Tax Payable:** **\u20b96,250**\n\n---\n\n#### **Scenario B: If the income is NON-SALARY (e.g., Business, Professional, Interest)**\n\n1. **Net Taxable Income:** **\u20b95,00,000** *(Standard Deduction does not apply)*\n\n**Slab-wise Tax Calculation:**\n* **\u20b90 to \u20b93,00,000 (Rate: 0%):** \u20b90\n* **\u20b93,00,000 to \u20b95,00,000 (Amount: \u20b92,00,000 @ 5%):** \u20b910,000\n\n**Total Tax Payable:** **\u20b910,000**\n\n---\n\n### **Clarification Request**\nTo give you the single exact figure, please clarify:\n* Is your yearly income of \u20b95 lakh earned as a **salaried employee** or from **other sources/business**?",
+      "latency_seconds": 19.162,
+      "status": "success"
+    }
+  ],
+  "llm_query_time_summary": {
+    "total_cases": 10,
+    "successful_cases": 10,
+    "failed_cases": 0,
+    "average_latency_seconds": 17.325
+  },
+  "llm_compiled_rules_summary": {
+    "total_cases": 10,
+    "successful_cases": 10,
+    "failed_cases": 0,
+    "average_latency_seconds": 23.194
+  }
+}

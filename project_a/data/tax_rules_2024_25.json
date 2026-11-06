@@ -1,0 +1,69 @@
+{
+    "financial_year": "2024-25",
+    "assessment_year": "2025-26",
+    "standard_deduction": {
+        "old_regime": 50000,
+        "new_regime": 75000
+    },
+    "taxpayer_category": "individual_below_60",
+
+    "old_regime": {
+        "slabs": [
+            {
+                "lower_limit": 0,
+                "upper_limit": 250000,
+                "rate": 0
+            },
+            {
+                "lower_limit": 250000,
+                "upper_limit": 500000,
+                "rate": 5
+            },
+            {
+                "lower_limit": 500000,
+                "upper_limit": 1000000,
+                "rate": 20
+            },
+            {
+                "lower_limit": 1000000,
+                "upper_limit": null,
+                "rate": 30
+            }
+        ]
+    },
+
+    "new_regime": {
+        "slabs": [
+            {
+                "lower_limit": 0,
+                "upper_limit": 300000,
+                "rate": 0
+            },
+            {
+                "lower_limit": 300000,
+                "upper_limit": 700000,
+                "rate": 5
+            },
+            {
+                "lower_limit": 700000,
+                "upper_limit": 1000000,
+                "rate": 10
+            },
+            {
+                "lower_limit": 1000000,
+                "upper_limit": 1200000,
+                "rate": 15
+            },
+            {
+                "lower_limit": 1200000,
+                "upper_limit": 1500000,
+                "rate": 20
+            },
+            {
+                "lower_limit": 1500000,
+                "upper_limit": null,
+                "rate": 30
+            }
+        ]
+    }
+}
