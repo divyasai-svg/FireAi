@@ -1,9 +1,0 @@
-[project]
-name = "fireai-project-b"
-version = "0.1.0"
-description = "NYC 311 data-quality detector comparison"
-requires-python = ">=3.10"
-dependencies = []
-
-[tool.pytest.ini_options]
-pythonpath = ["."]
